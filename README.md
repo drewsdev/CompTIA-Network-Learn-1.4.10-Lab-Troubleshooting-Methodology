@@ -40,6 +40,11 @@ In this lab, you will be guided through a simple network-related troubleshooting
   a. On Office1, try browsing to rmksupplies.com.  
   b. Did that fix the problem?  
 
+![Physical Connection](/Screenshot_2.png)
+![PC Not Working](/Screenshot_3.png)
+![Laptop Working](/Screenshot_4.png)
+![PC Working](/Screenshot_5.png)
+
 Required Actions
 -[x] Office1 connected to Internet router
 -[x] Changed to DHCP
